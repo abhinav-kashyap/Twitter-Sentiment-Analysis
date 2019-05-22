@@ -1,0 +1,2 @@
+I have used the inbuilt sentiment analyzer in R, which uses the NRC sentiment dictionary to calculate the presence of eight different emotions and their corresponding valence in a text. <br> <br>
+Analyzing the final visualization of Verizon tweets made by ggplot2 library in R, it is observable that maximum tweets are 'positive' therefore they seem to have won the trust of consumers. Apart from these there is a notable amount of 'Trust' and 'Anticipation' among their customers.
